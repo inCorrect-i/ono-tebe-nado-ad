@@ -162,7 +162,6 @@
   list-style: none;
   margin-bottom: 30px;
   justify-content: space-between; /* Равномерно распределяем карточки */
-  align-items: flex-start; /* Выравниваем по верхней границе */
   align-items: stretch; /* Изменено с flex-start на stretch */
 }
 
